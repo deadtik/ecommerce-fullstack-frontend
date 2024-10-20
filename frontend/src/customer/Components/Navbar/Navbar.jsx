@@ -17,12 +17,12 @@ function Navbar() {
             {/* Logo */}
             <Link to="/" className="flex items-center py-6">
               <img
-                src="C:\Users\Techates HQ\Documents\ecommerce-fullstack-frontend\frontend\logo.png"
+                src="ecommerce-fullstack-frontend\frontend\logo.png"
                 alt="ShopKart"
                 className="h-8 w-8 mr-2"
               />
               <span className="font-bold text-white text-lg">
-                Shop With Zosh
+                ShopKart
               </span>
             </Link>
 
